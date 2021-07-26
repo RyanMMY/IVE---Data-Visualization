@@ -17,3 +17,5 @@ Skills: R, Web scraping, Tableau<br>
 ![image](https://user-images.githubusercontent.com/86401891/126526748-0e1226fd-49af-4107-8935-64857fb36b9c.png)
 ![image](https://user-images.githubusercontent.com/86401891/126946896-169e5e0e-93fc-4644-aff9-e477d539c180.png)
 ![image](https://user-images.githubusercontent.com/86401891/126946913-63a3cd8b-38d2-4a6c-a246-c0cb402a2327.png)
+![image](https://user-images.githubusercontent.com/86401891/126947663-49610bb5-514e-4a04-a019-b97684922447.png)
+![image](https://user-images.githubusercontent.com/86401891/126947746-6e9a5271-a2c3-42b0-bffb-af3bcf1a28e2.png)

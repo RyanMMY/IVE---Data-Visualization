@@ -1,5 +1,5 @@
 # IVE---Data-Visualization
-Description: In this project, I scraped the data from the news webpage, and use R to process the data. Then implement the dashboards in Tableau. 
+Description: We examine the position of two newspaper media from the 2019 Hong Kong extradition bill. After using R studio to process data, we apply Tableau to drill down to some valuable discovery or insight, such as how does they describe demonstrator, word frequency on title and their position.  
 
 Skills: R, Web scraping, Tableau<br>
 
